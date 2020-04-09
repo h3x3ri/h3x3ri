@@ -1,3 +1,2 @@
-h3x3ri.gitbub.io
-# h3x3ri
+# h3x3ri.gitbub.io
 Blog
